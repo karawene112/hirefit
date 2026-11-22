@@ -1,0 +1,4 @@
+-- Applied to Supabase project "hirefit" (alaritwfzhhpxpihusss) on 2026-11-22.
+-- Tables: profiles (credits/plan), scans (history), payments (Lemon Squeezy log).
+-- Server-only functions: consume_scan, refund_scan, apply_pack_order, apply_subscription.
+-- See the Supabase dashboard → Database → Migrations for the exact applied SQL.
